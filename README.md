@@ -1,7 +1,7 @@
 ## Murilo Brito
 **`Desenvoledor de Software`**
 
-Me chamo Murilo Brito, tenho 21 anos e sou estudante de Engenharia de Software na PUC-Campinas. Sou apaixonado por tecnologia, inovação e, principalmente, por pessoas e acredito no desenvolvimento de soluções que gerem impacto real e positivo na sociedade.
+Me chamo Murilo, tenho 21 anos e sou estudante de Engenharia de Software na PUC-Campinas. Sou apaixonado por tecnologia, inovação e, principalmente, por pessoas e acredito no desenvolvimento de soluções que gerem impacto real e positivo na sociedade.
 
 Tenho experiência no desenvolvimento de aplicações utilizando Python, Java, C, Kotlin e tecnologias web, além de trabalhar com bancos de dados relacionais e não relacionais. Ao longo da minha trajetória, participei de projetos acadêmicos e institucionais, aplicando metodologias ágeis, arquitetura de software e boas práticas de desenvolvimento.
 
