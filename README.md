@@ -117,7 +117,7 @@ Estou sempre em busca de evolução constante, explorando novas tecnologias e ap
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 
-  <a href="https://github.com/Murilo8e/blob/main/CV_Murilo_Brito.pdf" target="_blank">
+  <a href="https://github.com/murilobrito/blob/main/CV_Murilo_Brito.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Curriculum-Download-green?style=for-the-badge">
   </a>
 
